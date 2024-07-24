@@ -1,0 +1,32 @@
+{
+    "FSE-CLIENTS": {
+        "allow_read": true,
+        "allow_write": true,
+        "documents": {
+            "uID": {
+                "allow_read": true,
+                "allow_write": true,
+                "fields": {
+                    "disabled": {
+                        "allow_read": true,
+                        "allow_write": false
+                    },
+                    "french": {
+                        "allow_read": true,
+                        "allow_write": true
+                    }
+                }
+            },
+            "ssp": {
+                "allow_read": true,
+                "allow_write": false,
+                "fields": {
+                    "disabled": {
+                        "allow_read": true,
+                        "allow_write": false
+                    }
+                }
+            }
+        }
+    }
+}

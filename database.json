@@ -1,0 +1,27 @@
+{
+    "FSE-CLIENTS": {
+        "uID": {
+            "disabled": "false",
+            "french": "ho"
+        },
+        "ssp": {
+            "disabled": "true"
+        }
+    },
+    "ohali": {
+        "uid": {
+            "disabled": "excafe"
+        }
+    },
+    "Friends": {
+        "Kisiara": {
+            "age": "24"
+        },
+        "Daniella": {
+            "age": "23"
+        },
+        "Josh": {
+            "age": "25"
+        }
+    }
+}
