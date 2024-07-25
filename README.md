@@ -18,3 +18,11 @@ to read a specific field, use read_tructure("main_collection", "document", "fiel
 
 I am consistently updating the rules and adding more complex rules as well as visualization capabailities among other cool stuff.
 
+
+I have used flask api to create read and write requests for the database.json
+
+the update_rules.py basically creates a rules section inside rules.json in realtime for every new document or field in a collection
+
+the client_log.py monitors the authentication, and also logs whatever action is taken by users whether its read or write
+
+
